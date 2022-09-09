@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "devika",
+            "password": "Devi12@",
+            "Profile": {
+                "description": "i am",
+                "D.O.B": "1/5/2002",
+                "Gender": "Male",
+                "Hobbies": "reading"
+            }
+        }
+    ]
+}
